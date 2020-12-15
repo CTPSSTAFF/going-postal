@@ -2,7 +2,7 @@
 
 This repository illustrates how to extract the names and addresss of post offices
 from the HTML "blob" returned by running the 
-USPS's (Find USPS Locations)[https://tools.usps.com/find-location.htm] website.
+USPS's [Find USPS Locations](https://tools.usps.com/find-location.htm) website.
 
 The extraction is performed by the Python script _script.py_ using version 4 of the 
 [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) library.
