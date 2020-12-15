@@ -1,7 +1,9 @@
 from bs4 import BeautifulSoup
 
-root = r'c:/Users/ben_k/work_stuff/post_offices/'
-fn = 'query_page_1.html'
+# Replace XXX with path to directory containing HTML file.
+root = r'XXX/'
+# Replace YYY with name of HTML saved after running USPS Find USPS Locations page.
+fn = 'YYYY.html'
 full_fn = root + fn
 fp = open(full_fn)
 html = fp.read()
@@ -18,7 +20,7 @@ for r in results:
 		# Here: compose a string consisting of:
 		#	  1. the PO name
 		#	  2. a comma
-		#	  3.the PO's address
+		#	  3. the PO's address
 		# and print it out
 		outstr = po_name + ',' + the_address
 		print(outstr)
