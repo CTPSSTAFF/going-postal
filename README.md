@@ -14,5 +14,5 @@ of the HTML returned by the USPS's Find USPS Locations page will likely render
 the extraction logic invalid, and in need of being rewritten. _Caveat emptor._
 
 Respectfully submitted,  
-B. Krepp, attending metaphysician  
+Ben Krepp (bkrepp@ctps.org)
 15 December 2020 A.D.
