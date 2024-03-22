@@ -13,6 +13,7 @@ _Find USPS Locations_ page __as of 14 December 2020__. Changes to the structure
 of the HTML returned by the USPS's Find USPS Locations page will likely render
 the extraction logic invalid, and in need of being rewritten. _Caveat emptor._
 
-Respectfully submitted,  
-Ben Krepp (bkrepp@ctps.org)
-15 December 2020 A.D.
+## Colophon
+Author: Ben Krepp (bkrepp@ctps.org)
+Last revision 15 December 2020
+Location: Cyberspace
